@@ -1,0 +1,17 @@
+# dependencies
+
+/.idea
+*.iml
+*/target/
+/target/
+*.settings/
+*.classpath
+*.project
+/*/*-reduced-pom.xml
+/logs/
+/*/*.log
+/*/logs
+.DS_Store
+.idea/
+*.log
+*.xls
