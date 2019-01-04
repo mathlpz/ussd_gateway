@@ -1,0 +1,1 @@
+nohup java -Xms512M -Xmx512M  -cp ./conf -Dfile.encoding=UTF-8 -Djava.ext.dirs=./lib com.lpz.ussd.business.MainStart &
